@@ -1,4 +1,4 @@
-name    'site_confd'
+name    'nubis-site_confd'
 version '0.1.0'
 source 'UNKNOWN'
 author 'gozer@mozilla.com'
