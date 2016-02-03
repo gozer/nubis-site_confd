@@ -1,8 +1,0 @@
-name    'nubis-site_confd'
-version '0.1.0'
-source 'https://github.com/gozer/nubis-site_confd.git'
-author 'Philippe M. Chiasson'
-license 'MPL2'
-summary 'confd class and functions'
-description 'confd class and functions'
-project_page 'https://github.com/gozer/nubis-site_confd'
