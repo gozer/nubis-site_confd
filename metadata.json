@@ -2,12 +2,13 @@
   "name": "nubis-site_confd",
   "version": "0.1.0",
   "author": "Philippe M. Chiasson",
-  "license": "MPL2",
   "summary": "confd class and functions",
+  "license": "MPL2",
   "source": "https://github.com/gozer/nubis-site_confd.git",
   "project_page": "https://github.com/gozer/nubis-site_confd",
   "issues_url": "https://github.com/gozer/nubis-site_confd/issues",
-  "tags": [
-    "confd"
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
 }
+
